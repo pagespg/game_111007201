@@ -1,0 +1,90 @@
+
+beishu.jpg
+size: 743,566
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+beishutexiao_unpack/multiplier_vfx_c_09
+  rotate: false
+  xy: 2, 461
+  size: 210, 103
+  orig: 210, 103
+  offset: 0, 0
+  index: -1
+beishutexiao_unpack/multiplier_vfx_c_10
+  rotate: false
+  xy: 214, 461
+  size: 210, 103
+  orig: 210, 103
+  offset: 0, 0
+  index: -1
+beishutexiao_unpack/multiplier_vfx_c_11
+  rotate: false
+  xy: 426, 461
+  size: 210, 103
+  orig: 210, 103
+  offset: 0, 0
+  index: -1
+beishutexiao_unpack/multiplier_vfx_c_12
+  rotate: false
+  xy: 2, 356
+  size: 210, 103
+  orig: 210, 103
+  offset: 0, 0
+  index: -1
+beishutexiao_unpack/multiplier_vfx_c_13
+  rotate: false
+  xy: 214, 356
+  size: 210, 103
+  orig: 210, 103
+  offset: 0, 0
+  index: -1
+beishutexiao_unpack/multiplier_vfx_c_14
+  rotate: false
+  xy: 426, 356
+  size: 210, 103
+  orig: 210, 103
+  offset: 0, 0
+  index: -1
+beishutexiao_unpack/multiplier_vfx_c_15
+  rotate: true
+  xy: 638, 354
+  size: 210, 103
+  orig: 210, 103
+  offset: 0, 0
+  index: -1
+beishutexiao_unpack/multiplier_vfx_c_16
+  rotate: false
+  xy: 2, 251
+  size: 210, 103
+  orig: 210, 103
+  offset: 0, 0
+  index: -1
+beishutexiao_unpack/multiplier_vfx_c_17
+  rotate: false
+  xy: 214, 251
+  size: 210, 103
+  orig: 210, 103
+  offset: 0, 0
+  index: -1
+beishutexiao_unpack/multiplier_vfx_c_18
+  rotate: false
+  xy: 426, 251
+  size: 210, 103
+  orig: 210, 103
+  offset: 0, 0
+  index: -1
+sucai/bw_flare
+  rotate: true
+  xy: 2, 33
+  size: 216, 272
+  orig: 216, 272
+  offset: 0, 0
+  index: -1
+sucai/bw_flare_d
+  rotate: false
+  xy: 276, 2
+  size: 430, 247
+  orig: 430, 247
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,222 @@
+
+bigwin.png
+size: 2046,1833
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bw_base_outline
+  rotate: false
+  xy: 404, 115
+  size: 687, 685
+  orig: 687, 685
+  offset: 0, 0
+  index: -1
+bw_cloud_a
+  rotate: false
+  xy: 870, 802
+  size: 456, 393
+  orig: 456, 393
+  offset: 0, 0
+  index: -1
+bw_cloud_b
+  rotate: false
+  xy: 1328, 712
+  size: 487, 331
+  orig: 487, 331
+  offset: 0, 0
+  index: -1
+bw_cloud_c
+  rotate: false
+  xy: 1784, 1045
+  size: 260, 309
+  orig: 260, 309
+  offset: 0, 0
+  index: -1
+bw_cloud_d
+  rotate: false
+  xy: 2, 1740
+  size: 227, 91
+  orig: 227, 91
+  offset: 0, 0
+  index: -1
+bw_flare
+  rotate: false
+  xy: 1802, 1400
+  size: 216, 272
+  orig: 216, 272
+  offset: 0, 0
+  index: -1
+bw_flare_b
+  rotate: false
+  xy: 2, 923
+  size: 432, 272
+  orig: 432, 272
+  offset: 0, 0
+  index: -1
+bw_flare_c
+  rotate: false
+  xy: 2, 521
+  size: 400, 400
+  orig: 400, 400
+  offset: 0, 0
+  index: -1
+bw_flare_d
+  rotate: false
+  xy: 1352, 1107
+  size: 430, 247
+  orig: 430, 247
+  offset: 0, 0
+  index: -1
+bw_flare_f
+  rotate: false
+  xy: 436, 901
+  size: 432, 294
+  orig: 432, 294
+  offset: 0, 0
+  index: -1
+bw_ring_pink
+  rotate: false
+  xy: 1093, 2
+  size: 708, 708
+  orig: 708, 708
+  offset: 0, 0
+  index: -1
+ddajiangtongbi_unpack/bw_vfx_a_00
+  rotate: true
+  xy: 231, 1674
+  size: 157, 448
+  orig: 157, 448
+  offset: 0, 0
+  index: -1
+ddajiangtongbi_unpack/bw_vfx_a_01
+  rotate: true
+  xy: 681, 1674
+  size: 157, 448
+  orig: 157, 448
+  offset: 0, 0
+  index: -1
+ddajiangtongbi_unpack/bw_vfx_a_02
+  rotate: true
+  xy: 1131, 1674
+  size: 157, 448
+  orig: 157, 448
+  offset: 0, 0
+  index: -1
+ddajiangtongbi_unpack/bw_vfx_a_03
+  rotate: true
+  xy: 1581, 1674
+  size: 157, 448
+  orig: 157, 448
+  offset: 0, 0
+  index: -1
+ddajiangtongbi_unpack/bw_vfx_a_04
+  rotate: true
+  xy: 2, 1515
+  size: 157, 448
+  orig: 157, 448
+  offset: 0, 0
+  index: -1
+ddajiangtongbi_unpack/bw_vfx_a_05
+  rotate: true
+  xy: 452, 1515
+  size: 157, 448
+  orig: 157, 448
+  offset: 0, 0
+  index: -1
+ddajiangtongbi_unpack/bw_vfx_a_06
+  rotate: true
+  xy: 902, 1515
+  size: 157, 448
+  orig: 157, 448
+  offset: 0, 0
+  index: -1
+ddajiangtongbi_unpack/bw_vfx_a_07
+  rotate: true
+  xy: 1352, 1515
+  size: 157, 448
+  orig: 157, 448
+  offset: 0, 0
+  index: -1
+ddajiangtongbi_unpack/bw_vfx_a_08
+  rotate: true
+  xy: 2, 1356
+  size: 157, 448
+  orig: 157, 448
+  offset: 0, 0
+  index: -1
+ddajiangtongbi_unpack/bw_vfx_a_09
+  rotate: true
+  xy: 452, 1356
+  size: 157, 448
+  orig: 157, 448
+  offset: 0, 0
+  index: -1
+ddajiangtongbi_unpack/bw_vfx_a_10
+  rotate: true
+  xy: 902, 1356
+  size: 157, 448
+  orig: 157, 448
+  offset: 0, 0
+  index: -1
+ddajiangtongbi_unpack/bw_vfx_a_11
+  rotate: true
+  xy: 1352, 1356
+  size: 157, 448
+  orig: 157, 448
+  offset: 0, 0
+  index: -1
+ddajiangtongbi_unpack/bw_vfx_a_12
+  rotate: true
+  xy: 2, 1197
+  size: 157, 448
+  orig: 157, 448
+  offset: 0, 0
+  index: -1
+ddajiangtongbi_unpack/bw_vfx_a_13
+  rotate: true
+  xy: 452, 1197
+  size: 157, 448
+  orig: 157, 448
+  offset: 0, 0
+  index: -1
+ddajiangtongbi_unpack/bw_vfx_a_14
+  rotate: true
+  xy: 902, 1197
+  size: 157, 448
+  orig: 157, 448
+  offset: 0, 0
+  index: -1
+
+bigwin2.png
+size: 1611,1507
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bw_base_a
+  rotate: false
+  xy: 2, 736
+  size: 787, 769
+  orig: 787, 769
+  offset: 0, 0
+  index: -1
+bw_dragon_tiger
+  rotate: false
+  xy: 791, 770
+  size: 818, 735
+  orig: 818, 735
+  offset: 0, 0
+  index: -1
+bw_dragon_tiger_line
+  rotate: false
+  xy: 791, 33
+  size: 818, 735
+  orig: 818, 735
+  offset: 0, 0
+  index: -1
+bw_ring_blue
+  rotate: false
+  xy: 2, 2
+  size: 732, 732
+  orig: 732, 732
+  offset: 0, 0
+  index: -1

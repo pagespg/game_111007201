@@ -1,0 +1,34 @@
+
+jiasu.jpg
+size: 372,372
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+fs_vfx_e
+  rotate: false
+  xy: 2, 55
+  size: 100, 315
+  orig: 100, 315
+  offset: 0, 0
+  index: -1
+fs_vfx_f_01
+  rotate: false
+  xy: 104, 166
+  size: 132, 204
+  orig: 132, 204
+  offset: 0, 0
+  index: -1
+fs_vfx_f_02
+  rotate: false
+  xy: 238, 166
+  size: 132, 204
+  orig: 132, 204
+  offset: 0, 0
+  index: -1
+fx_vfx_glow
+  rotate: true
+  xy: 104, 39
+  size: 125, 190
+  orig: 125, 190
+  offset: 0, 0
+  index: -1

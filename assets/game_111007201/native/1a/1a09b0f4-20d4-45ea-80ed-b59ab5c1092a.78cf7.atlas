@@ -1,0 +1,104 @@
+
+bgdxiao.png
+size: 1023,554
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+dragon_neon_01
+  rotate: false
+  xy: 642, 12
+  size: 167, 139
+  orig: 167, 139
+  offset: 0, 0
+  index: -1
+dragon_neon_02
+  rotate: false
+  xy: 422, 29
+  size: 78, 100
+  orig: 78, 100
+  offset: 0, 0
+  index: -1
+dragon_neon_03
+  rotate: false
+  xy: 234, 11
+  size: 107, 118
+  orig: 107, 118
+  offset: 0, 0
+  index: -1
+dragon_neon_04
+  rotate: false
+  xy: 2, 2
+  size: 138, 127
+  orig: 138, 127
+  offset: 0, 0
+  index: -1
+dragon_neon_05
+  rotate: false
+  xy: 826, 243
+  size: 182, 245
+  orig: 182, 245
+  offset: 0, 0
+  index: -1
+dragon_neon_06
+  rotate: false
+  xy: 826, 490
+  size: 195, 62
+  orig: 195, 62
+  offset: 0, 0
+  index: -1
+neon_ring_04
+  rotate: false
+  xy: 2, 131
+  size: 421, 421
+  orig: 421, 421
+  offset: 0, 0
+  index: -1
+neon_ring_05
+  rotate: false
+  xy: 425, 153
+  size: 399, 399
+  orig: 399, 399
+  offset: 0, 0
+  index: -1
+tiger_neon_01
+  rotate: false
+  xy: 502, 11
+  size: 138, 140
+  orig: 138, 140
+  offset: 0, 0
+  index: -1
+tiger_neon_02
+  rotate: true
+  xy: 811, 35
+  size: 32, 70
+  orig: 32, 70
+  offset: 0, 0
+  index: -1
+tiger_neon_03
+  rotate: true
+  xy: 826, 155
+  size: 86, 174
+  orig: 86, 174
+  offset: 0, 0
+  index: -1
+tiger_neon_04
+  rotate: true
+  xy: 142, 2
+  size: 127, 90
+  orig: 127, 90
+  offset: 0, 0
+  index: -1
+tiger_neon_05
+  rotate: true
+  xy: 343, 22
+  size: 107, 77
+  orig: 107, 77
+  offset: 0, 0
+  index: -1
+tiger_neon_06
+  rotate: false
+  xy: 811, 69
+  size: 200, 82
+  orig: 200, 82
+  offset: 0, 0
+  index: -1

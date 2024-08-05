@@ -1,0 +1,153 @@
+
+spin.jpg
+size: 848,577
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+fx/spin_button_vfx_a_00
+  rotate: true
+  xy: 707, 168
+  size: 135, 139
+  orig: 135, 139
+  offset: 0, 0
+  index: -1
+fx/spin_button_vfx_a_01
+  rotate: true
+  xy: 185, 441
+  size: 134, 139
+  orig: 134, 139
+  offset: 0, 0
+  index: -1
+fx/spin_button_vfx_a_02
+  rotate: true
+  xy: 326, 441
+  size: 134, 139
+  orig: 134, 139
+  offset: 0, 0
+  index: -1
+fx/spin_button_vfx_a_03
+  rotate: true
+  xy: 467, 441
+  size: 134, 139
+  orig: 134, 139
+  offset: 0, 0
+  index: -1
+fx/spin_button_vfx_a_04
+  rotate: true
+  xy: 608, 441
+  size: 134, 139
+  orig: 134, 139
+  offset: 0, 0
+  index: -1
+fx/spin_button_vfx_a_05
+  rotate: true
+  xy: 2, 327
+  size: 134, 139
+  orig: 134, 139
+  offset: 0, 0
+  index: -1
+fx/spin_button_vfx_a_06
+  rotate: true
+  xy: 143, 305
+  size: 134, 139
+  orig: 134, 139
+  offset: 0, 0
+  index: -1
+fx/spin_button_vfx_a_07
+  rotate: true
+  xy: 284, 305
+  size: 134, 139
+  orig: 134, 139
+  offset: 0, 0
+  index: -1
+fx/spin_button_vfx_a_08
+  rotate: true
+  xy: 425, 305
+  size: 134, 139
+  orig: 134, 139
+  offset: 0, 0
+  index: -1
+fx/spin_button_vfx_a_09
+  rotate: true
+  xy: 566, 305
+  size: 134, 139
+  orig: 134, 139
+  offset: 0, 0
+  index: -1
+fx/spin_button_vfx_a_10
+  rotate: true
+  xy: 707, 305
+  size: 134, 139
+  orig: 134, 139
+  offset: 0, 0
+  index: -1
+fx/spin_button_vfx_a_11
+  rotate: true
+  xy: 2, 191
+  size: 134, 139
+  orig: 134, 139
+  offset: 0, 0
+  index: -1
+fx/spin_button_vfx_a_12
+  rotate: true
+  xy: 143, 169
+  size: 134, 139
+  orig: 134, 139
+  offset: 0, 0
+  index: -1
+fx/spin_button_vfx_a_13
+  rotate: true
+  xy: 284, 169
+  size: 134, 139
+  orig: 134, 139
+  offset: 0, 0
+  index: -1
+fx/spin_button_vfx_a_14
+  rotate: true
+  xy: 425, 169
+  size: 134, 139
+  orig: 134, 139
+  offset: 0, 0
+  index: -1
+fx/spin_button_vfx_a_15
+  rotate: true
+  xy: 566, 169
+  size: 134, 139
+  orig: 134, 139
+  offset: 0, 0
+  index: -1
+mh_autospin
+  rotate: false
+  xy: 2, 463
+  size: 181, 112
+  orig: 181, 112
+  offset: 0, 0
+  index: -1
+mh_vfx_02
+  rotate: false
+  xy: 2, 3
+  size: 197, 164
+  orig: 197, 164
+  offset: 0, 0
+  index: -1
+mh_vfx_dragon
+  rotate: false
+  xy: 201, 3
+  size: 197, 164
+  orig: 197, 164
+  offset: 0, 0
+  index: -1
+mh_vfx_tiger
+  rotate: false
+  xy: 400, 3
+  size: 197, 164
+  orig: 197, 164
+  offset: 0, 0
+  index: -1
+mh_vfx_tiger_dragon
+  rotate: false
+  xy: 599, 2
+  size: 197, 164
+  orig: 197, 164
+  offset: 0, 0
+  index: -1
